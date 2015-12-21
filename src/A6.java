@@ -16,6 +16,6 @@ class Question {
 	      this.description = desc;
 	   }
 	   public void print() {
-	      System.out.println(desc);
+	      System.out.println(description);
 	   }      
 }
