@@ -1,4 +1,4 @@
-
+//user name D0280184
 public class A6 {
 
 	/**
@@ -6,7 +6,7 @@ public class A6 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		 
 	}
 
 }
